@@ -32,13 +32,13 @@
   },
   "dependencies": {
     "@grpc/proto-loader": "^0.5.4",
-    "axios": "^0.19.2",
+    "axios": "^0.28.0",
     "cli-progress": "^3.8.2",
     "decompress-zip": "^0.2.2",
     "fs": "^0.0.1-security",
     "fs-extra": "^9.0.0",
     "google-protobuf": "^3.11.4",
-    "grpc": "^1.24.2",
+    "grpc": "^1.24.11",
     "node-downloader-helper": "^1.0.12",
     "process-exists": "^4.0.0",
     "promisify-child-process": "^4.1.1"
